@@ -9,7 +9,7 @@ Massachusetts Institute of Technology. He had a distinguished career after gradu
 the chair of the American National Standards Institute (ANSI) for a year. 
 
 Mr. Smoot was 5 feet, 7 inches tall in 1958. He was used to measure the Harvard Bridge in Boston which is 364.4 smoots
-+ 1 ear. The Patroon Island Bridge over the Hudson River is 1795 feet. This is 321.5 smoots.
+plus 1 ear. The Patroon Island Bridge over the Hudson River is 1795 feet. This is 321.5 smoots.
 
 Write a program which will be given the length of a bridge in feet. You are to print the length of
 the Bridge in smoots. Round the answer to one decimal digit.
