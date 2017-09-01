@@ -1,4 +1,3 @@
-# Smoots
 CCSCNE-2017: Programming Context April 7th, 2017
 
 1.Smoots Problem
@@ -30,3 +29,39 @@ Sample Input
 Sample Output
 321.5
 364.4
+
+
+2. Indian Pearls Problem
+
+In Victor Katz book on the history of mathematics, he gives an example of a problem from an
+Indian source. A modified version of this goes like this:
+
+An Indian princess was in her garden with five of her lady companions. She dropped her
+pearl necklace and all the pearls fell to the ground. Each of her companions picked up
+some proportion of the pearls but they missed some.
+Later, her daughter went into the garden and picked up the remainder of the pearls. We
+know how many pearls the daughter found and what proportion of the five companions
+found. From this information, we ask you to write a program to give us the total number of
+pearls in the necklace.
+
+Input
+Your program will accept multiple test cases, each on its own line. For each test case the input
+will be six positive integers. The first integer will be how many pearls the daughter found. The
+other five will represent the fractions found by the companions. For example, if a companion
+found 1/10 of the pearls, we will input 10 and if a companion found 1/5 of the pearls, we will
+input 5. We guarantee you that the sum of the fractions will be less than 1. The terminal input
+will contain six 0s.
+
+Output
+You are to print the total number of pearls. The answer will always be an integer.
+
+Sample Input
+5 10 10 10 10 10
+10 4 8 16 32 32
+1228 5 7 10 15 8
+0 0 0 0 0 0
+
+Sample Output
+10
+20
+3360
