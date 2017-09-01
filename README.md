@@ -1,6 +1,6 @@
 CCSCNE-2017: Programming Context April 7th, 2017
 
-1.Smoots Problem
+1.Problem I: SMOOT
 
 One of the most-celebrated units of measurement in some circles is the “smoot.” The smoot is
 defined as the height of Oliver R. Smoot in October of 1958 when he was a student at the
@@ -30,8 +30,9 @@ Sample Output
 321.5
 364.4
 
+------------------------------------------------------------------------------------------------------------
 
-2. Indian Pearls Problem
+2. Problem II: INDIAN-PEARL
 
 In Victor Katz book on the history of mathematics, he gives an example of a problem from an
 Indian source. A modified version of this goes like this:
